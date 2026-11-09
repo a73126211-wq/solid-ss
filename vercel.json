@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd solid-app && npm run build",
+  "outputDirectory": "solid-app/dist",
+  "installCommand": "cd solid-app && npm install",
+  "devCommand": "cd solid-app && npm run dev",
+  "framework": "vite",
+  "regions": ["eu-central1"]
+}
