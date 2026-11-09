@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+dist
+dist-ssr
+*.tsbuildinfo
+coverage/
+solid-app/node_modules/
+solid-app/dist/
+solid-app/*.tsbuildinfo
